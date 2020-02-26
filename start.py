@@ -38,4 +38,7 @@ lista_nowa = list()
 
 # słownik
 
-
+slownik = {}
+slownik = {"imie": "Marek",
+"wiek": 35}
+slownik["imie"]
