@@ -40,3 +40,23 @@ print(list(range(10,2,-2)))
 #[od:do]
 print(imie[2:4])
 print(imie[::2])
+
+
+#pass
+for liczba in range(5):
+    pass #pass sprawia że nic nie robiąca pętla nie wywala errora
+for litera in imie[::2]:
+    pass
+
+
+#while
+# import random
+# z = random.randint(1,20)
+
+# while(z!=5):
+#     print(str(z))
+#     z = random.randint(1,20)
+# else:
+#     print("20, koniec")
+
+
