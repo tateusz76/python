@@ -42,3 +42,18 @@ slownik = {}
 slownik = {"imie": "Marek",
 "wiek": 35}
 slownik["imie"]
+print(slownik.keys())
+print(slownik.values())
+print(slownik.items())
+
+
+
+def pow():
+    pass
+
+from math import *
+import math as m
+from math import pow 
+
+pow()
+m.pow()
